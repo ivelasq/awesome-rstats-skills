@@ -29,12 +29,15 @@ Skills for auditing and reviewing R code quality, style, and correctness.
 General skills for programming patterns.
 
 - [r-analyst](https://github.com/nealcaren/social-data-analysis/tree/main/plugins/r-analyst/skills/r-analyst) by [@nealcaren](https://github.com/nealcaren) - Guides a systematic, phased workflow for conducting publication-ready statistical analysis in R, emphasizing research design before estimation and robust sensitivity testing.
+- [ds-assistant](https://github.com/chendakeng/claude-code-skill-ds-assistant/tree/main/skills/ds-assistant) by [@chendakeng](https://github.com/chendakeng) - Tools for general purpose data science assistant with instructions for Shiny and Quarto.
+- [event-studies](https://github.com/dariia-m/my_claude_skills/tree/main/event-studies) by [@dariia-m](https://github.com/dariia-m) - Covers many differences-in-differences methods from classic fixed effect regressions to modern staggered adoption methods
 
 ### Tidyverse
 
 Skills for writing idiomatic tidyverse code.
 
 - [tidyverse-patterns](https://github.com/ab604/claude-code-r-skills/tree/main/.claude/skills/tidyverse-patterns) by [@ab604](https://github.com/ab604) - Modern `tidyverse` patterns covering pipes, joins, grouping, `purrr`, and `stringr` for writing current best-practice R code.
+- 
 
 ### Package development
 
@@ -60,9 +63,9 @@ Skills for profiling, benchmarking, and optimizing R code.
 
 Full repositories of R-focused skills worth browsing.
 
-- [posit-dev/skills](https://github.com/posit-dev/skills) by [@posit-dev](https://github.com/posit-dev) - Collection of skills from Posit covering R package development, Shiny, Quarto, and developer workflows.
+- [skills](https://github.com/posit-dev/skills) by [@posit-dev](https://github.com/posit-dev) - Collection of skills from Posit covering R package development, Shiny, Quarto, and developer workflows.
 - [claude-code-r-skills](https://github.com/ab604/claude-code-r-skills) by [@ab604](https://github.com/ab604) - Comprehensive Claude Code configuration for R development with 8 skills spanning tidyverse, performance, OOP, Bayesian methods, package development, and TDD.
-- [jeremy-allen/claude-skills/](https://github.com/jeremy-allen/claude-skills/) by [@jeremy-allen](https://github.com/jeremy-allen/) - Claude agent skills for using R's tidyverse. Mostly Derived from [Sarah Johnson's stellar CLAUDE.md](https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad).
+- [claude-skills](https://github.com/jeremy-allen/claude-skills/) by [@jeremy-allen](https://github.com/jeremy-allen/) - Claude agent skills for using R's tidyverse. Mostly Derived from [Sarah Johnson's stellar CLAUDE.md](https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad).
 
 ## Tutorials and blogs
 
